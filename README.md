@@ -1,4 +1,4 @@
-# sales-transaction-report-powerbi
+# Foresight BI sales-transaction-report-powerbi
 
 
 # Sales and Transaction Report by Period
