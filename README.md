@@ -37,7 +37,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and transacti
 * Quarterly Performance Comparison
 * Year-over-Year Growth Analysis
 
-* 
+  
 
 ### Product Performance
 
@@ -45,7 +45,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and transacti
 * Category-wise Sales Distribution
 * Revenue Contribution by Product
 
-* 
+ 
 
 ### Customer Insights
 
